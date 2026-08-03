@@ -1,1 +1,1 @@
-export const environment = { apiUrl: 'http://localhost:8000/api/v1', siteUrl: 'https://example.com', production: false } as const;
+export const environment = { apiUrl: 'https://portfolio-backend-fmzt.onrender.com/api/v1', siteUrl: 'https://example.com', production: false } as const;
