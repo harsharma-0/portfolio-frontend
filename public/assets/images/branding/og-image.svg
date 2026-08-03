@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0A0F1E"/>
+  <path d="M0 0H1200V630H0V0Z" fill="url(#paint0_radial_8_14)"/>
+  <g opacity="0.28">
+    <path d="M0 126H1200M0 252H1200M0 378H1200M0 504H1200" stroke="#00D4FF"/>
+    <path d="M120 0V630M240 0V630M360 0V630M480 0V630M600 0V630M720 0V630M840 0V630M960 0V630M1080 0V630" stroke="#00D4FF"/>
+  </g>
+  <rect x="84" y="86" width="1032" height="458" rx="28" fill="#081120" fill-opacity="0.82" stroke="#00D4FF" stroke-opacity="0.35"/>
+  <text x="120" y="260" fill="#D8E7FF" font-family="Arial, sans-serif" font-size="48" font-weight="700">Harsh Vishwakarma</text>
+  <text x="120" y="335" fill="#00D4FF" font-family="Arial, sans-serif" font-size="72" font-weight="700">Backend Engineer</text>
+  <text x="120" y="410" fill="#8AA0BD" font-family="Arial, sans-serif" font-size="30">AWS automation • Distributed systems • FastAPI</text>
+  <defs>
+    <radialGradient id="paint0_radial_8_14" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(894 156) rotate(142.021) scale(812.373 637.86)">
+      <stop stop-color="#00D4FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0A0F1E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

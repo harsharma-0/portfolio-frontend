@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace example.com with the production domain before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url><url><loc>https://example.com/projects</loc></url>
+  <url><loc>https://example.com/skills</loc></url><url><loc>https://example.com/experience</loc></url>
+  <url><loc>https://example.com/services</loc></url><url><loc>https://example.com/api-lab</loc></url>
+  <url><loc>https://example.com/contact</loc></url>
+  <url><loc>https://example.com/projects/amazon-q-cost-analytics-assistant</loc></url>
+  <url><loc>https://example.com/projects/distributed-multi-drone-ai-tracking</loc></url>
+  <url><loc>https://example.com/projects/documentation-module</loc></url>
+  <url><loc>https://example.com/projects/aws-native-services-platform</loc></url>
+  <url><loc>https://example.com/projects/aws-cost-calculator</loc></url>
+  <url><loc>https://example.com/projects/air-pollution-prediction</loc></url>
+</urlset>
